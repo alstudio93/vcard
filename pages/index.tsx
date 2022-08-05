@@ -51,9 +51,7 @@ const vCard = () => {
           <a className="btn-card text-black" href="mailto:andrew.laddstudio.com">
             mail
           </a>
-          <a className="btn-card text-black">
-            heart
-          </a>
+
           <a className="btn-card text-black" href="tel:+7692571261">
             phone
           </a>
