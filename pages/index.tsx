@@ -27,7 +27,7 @@ const vCard = () => {
       <div className="card-item animated fadeInUp">
         <div className="wrapper1">
           <a className="btn-card btn-download" onClick={generateVCard} href="#">
-            <i className="bx bx-download"></i>
+            download
           </a>
         </div>
         <section>
