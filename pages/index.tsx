@@ -6,7 +6,7 @@ const vCard = () => {
     var vCardSample = vCardsJS();
     vCardSample.firstName = "Andrew";
     vCardSample.lastName = "Ladd";
-    vCardSample.workPhone = "(769)-257-1261";
+    vCardSample.workPhone = ["(769)-257-1261", "555-555-5555"];
     vCardSample.email = "andrew.laddstudio@gmail.com";
     vCardSample.title = "Business";
     vCardSample.url = "https://www.google.com";
